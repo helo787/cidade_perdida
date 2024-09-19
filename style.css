@@ -1,8 +1,3 @@
-
-body {
-    background-color: #1D4221;
-}
-
 body {
     background-color: #1D4221;
     color: white;
@@ -17,5 +12,5 @@ body {
 button {
     background-color: #64A712;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Mingzat&display", sans-serif;
 }
